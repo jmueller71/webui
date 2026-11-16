@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.6-mit.1] - 2026-11-16
+- MIT Custom theme (index.css)
+
 ## [2.0.6] - 2026-11-13
 
 ### Fixed
